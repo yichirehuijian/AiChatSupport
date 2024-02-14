@@ -1,8 +1,8 @@
 # first use
 Using jwt and chromedp ,please download it for using;
-`bat
+```bat
 go run .
-`
+```
 Please down chorm for using;
 ## edit file
 ![image](https://github.com/yichirehuijian/AiChatSupport/assets/123849685/739caa28-5c1a-4c64-a377-4deee316bb5e)
